@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+VisualStudioVersion = 12.0.20827.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HWchart", "HWchart\HWchart.csproj", "{6033304A-028B-4D6D-9A72-2D41D0B5C576}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6033304A-028B-4D6D-9A72-2D41D0B5C576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6033304A-028B-4D6D-9A72-2D41D0B5C576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6033304A-028B-4D6D-9A72-2D41D0B5C576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6033304A-028B-4D6D-9A72-2D41D0B5C576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		description = Application to plan networks or hardware relations
+		version = 1.4
+	EndGlobalSection
+EndGlobal

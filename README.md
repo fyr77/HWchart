@@ -11,7 +11,7 @@ It's compatible with Windows using the .NET Framework and macOS and Linux (and p
 
 ### Windows
 
-Just download the .exe file from [/releases](/releases) and run it.
+Just download the .exe file from [the releases](https://github.com/fyr77/HWchart/releases) and run it.
 
 ### macOS
 

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.5
+Type=Application
+NoDisplay=true
+Exec=mono /usr/bin/HWchart/HWchart.exe
+Name=HWchart
+Comment=a simple application to graph networks
+Icon=/usr/share/hwchart/hwchart.png
+Path=
+Terminal=false
+StartupNotify=false

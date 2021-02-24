@@ -1,5 +1,7 @@
 # HWchart
-An application for sketiching networks or hardware relations
+An application for sketching networks or hardware relations.
+
+Keep in mind that this application was written years ago and is not written very nicely or efficiently. Needless to say it does not reflect my current coding practices and is kept for archival reasons.
 
 ## About
 
@@ -13,22 +15,8 @@ It's compatible with Windows using the .NET Framework and macOS and Linux (and p
 
 Just download the .exe file from [the releases](https://github.com/fyr77/HWchart/releases) and run it.
 
-### macOS
-
-*TODO*
-
-### Linux
-
-*TODO*
-
 ## Building
 
 Restore the NUGET packages (most IDEs do this automatically).
 
 Then build it using any C# IDE, I tested SharpDevelop on Windows and MonoDevelop on Arch Linux.
-
-## Todo
-
-- Linux packages
-- Mac packages
-- Linux repository inclusion

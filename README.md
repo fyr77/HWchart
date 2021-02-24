@@ -1,7 +1,7 @@
 # HWchart
 An application for sketching networks or hardware relations.
 
-Keep in mind that this application was written years ago and is not written very nicely or efficiently. Needless to say it does not reflect my current coding practices and is kept for archival reasons.
+Keep in mind that this application was made years ago and is not written very nicely or efficiently. Needless to say it does not reflect my current coding practices and is kept for archival reasons.
 
 ## About
 
